@@ -20,7 +20,7 @@
     <div class="flex  justify-center  px-20 ">
       <p class="text-center">
         Sign to get personalized story remmendations follow authors 
-        and topics you love and interact  with stories
+        and topics you love and interact  with storiess
       </p>
     </div>
     <div class="space-y-6 mt-4 flex flex-col items-center" >
