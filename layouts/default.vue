@@ -3,13 +3,17 @@
 
     <div class="flex justify-between bg-white py-4 px-24 w-full fixed z-10 bg-opacity-75">
       <div class="flex items-center font-bold text-3xl ">
-        Medium
+
+        <nuxt-link to="/">Medium</nuxt-link>
+        
       </div>
       <div class="flex  space-x-6  items-center 
        text-gray-800 font-medium ">
 
        <div>
-         <a href="">subscribe</a>
+
+         <nuxt-link to="/membership">subscribe</nuxt-link>
+         <!-- <a href=""></a> -->
        </div>
 
        <div>
