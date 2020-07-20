@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "export": "nuxt-ts export",
+    "serve": "nuxt-ts serve"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@nuxt/typescript-runtime": "^0.4.10",
+    "autoprefixer": "^9.8.5",
+    "nuxt": "^2.13.0",
+    "postcss": "^7.0.32"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@nuxt/typescript-build": "^1.0.3",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/tailwindcss": "^2.0.0",
+    "postcss-import": "^12.0.1",
+    "postcss-nested": "^4.2.3",
+    "tailwindcss": "^1.5.1"
+  }
+}
