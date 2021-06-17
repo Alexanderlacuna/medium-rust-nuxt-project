@@ -14,7 +14,7 @@
     "@nuxt/typescript-runtime": "^0.4.10",
     "autoprefixer": "^9.8.5",
     "nuxt": "^2.13.0",
-    "postcss": "^7.0.32"
+    "postcss": "^7.0.36"
   },
   "devDependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
